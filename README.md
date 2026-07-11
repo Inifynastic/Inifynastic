@@ -27,10 +27,7 @@ I'm interested in
 
 ## Featured Projects
 
-- Qt Tic-Tac-Toe
-- ruby-is-qt
-- (Future Cyber Security Tool)
-- (Future OS Project)
+-TBA
 
 ## Open Source
 
