@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Inify
 
-<!--
-**Inifynastic/Inifynastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems Programming
+- Modern C++
+- Linux
+- Cybersecurity
+- Native Desktop Applications
+
+## Currently Learning
+
+- Qt
+- Linux Internals
+- PyTorch + ONNX Runtime
+
+## Technologies
+
+- C++
+- Qt
+- CMake
+- Ruby
+- Linux
+- Git
+
+## Featured Projects
+
+- Qt Tic-Tac-Toe
+- ruby-is-qt
+- (Future Cyber Security Tool)
+- (Future OS Project)
+
+## Open Source
+
+Working toward contributing to large C++ open-source projects.
