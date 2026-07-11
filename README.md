@@ -1,34 +1,5 @@
-# Hi, I'm Inify
-
-## About Me
-
-I'm interested in
-
-- Systems Programming
-- Modern C++
-- Linux
-- Cybersecurity
-- Native Desktop Applications
-
-## Currently Learning
-
-- Qt
-- Linux Internals
-- PyTorch + ONNX Runtime
-
-## Technologies
-
-- C++
-- Qt
-- CMake
-- Ruby
-- Linux
-- Git
-
-## Featured Projects
-
--TBA
-
-## Open Source
-
-Working toward contributing to large C++ open-source projects.
+    _    ____ ___ ____      _    _
+   / \  | __ )_ _|  _ \    / \  | |
+  / _ \ |  _ \| || |_) |  / _ \ | |
+ / ___ \| |_) | ||  _ <  / ___ \| |___
+/_/   \_\____/___|_| \_\/_/   \_\_____|
